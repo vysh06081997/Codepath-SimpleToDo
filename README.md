@@ -16,3 +16,7 @@ A SimpleToDo App that allows the users to keep track of the activities and also 
   
 **Android device Used :Pixel 2XL API 30 **
 
+**OUTPUT**
+
+![Record](https://user-images.githubusercontent.com/35587848/103578442-340c0600-4e9c-11eb-92e7-0571bc06f039.gif)
+
